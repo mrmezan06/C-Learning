@@ -1,0 +1,9 @@
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.exe.config
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.exe
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.pdb
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.csprojResolveAssemblyReference.cache
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.Form1.resources
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.Properties.Resources.resources
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.csproj.GenerateResource.Cache
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.exe
+G:\C# Project\ScreenCaptureApp\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.pdb

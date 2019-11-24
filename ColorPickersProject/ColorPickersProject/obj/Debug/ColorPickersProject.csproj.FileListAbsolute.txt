@@ -1,0 +1,8 @@
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\bin\Debug\ColorPickersProject.exe.config
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\bin\Debug\ColorPickersProject.exe
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\bin\Debug\ColorPickersProject.pdb
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\obj\Debug\ColorPickersProject.Form1.resources
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\obj\Debug\ColorPickersProject.Properties.Resources.resources
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\obj\Debug\ColorPickersProject.csproj.GenerateResource.Cache
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\obj\Debug\ColorPickersProject.exe
+H:\Project\C# Project\ColorPickersProject\ColorPickersProject\obj\Debug\ColorPickersProject.pdb

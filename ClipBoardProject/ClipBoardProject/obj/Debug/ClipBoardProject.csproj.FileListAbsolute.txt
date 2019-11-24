@@ -1,0 +1,9 @@
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\bin\Debug\ClipBoardProject.exe.config
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.csprojResolveAssemblyReference.cache
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.Form1.resources
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.Properties.Resources.resources
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.csproj.GenerateResource.Cache
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\bin\Debug\ClipBoardProject.exe
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\bin\Debug\ClipBoardProject.pdb
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.exe
+H:\Project\C# Project\ClipBoardProject\ClipBoardProject\obj\Debug\ClipBoardProject.pdb

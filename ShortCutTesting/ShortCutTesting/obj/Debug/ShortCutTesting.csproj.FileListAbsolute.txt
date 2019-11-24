@@ -1,0 +1,8 @@
+G:\C# Project\ShortCutTesting\ShortCutTesting\bin\Debug\ShortCutTesting.exe.config
+G:\C# Project\ShortCutTesting\ShortCutTesting\obj\Debug\ShortCutTesting.Form1.resources
+G:\C# Project\ShortCutTesting\ShortCutTesting\obj\Debug\ShortCutTesting.Properties.Resources.resources
+G:\C# Project\ShortCutTesting\ShortCutTesting\obj\Debug\ShortCutTesting.csproj.GenerateResource.Cache
+G:\C# Project\ShortCutTesting\ShortCutTesting\bin\Debug\ShortCutTesting.exe
+G:\C# Project\ShortCutTesting\ShortCutTesting\bin\Debug\ShortCutTesting.pdb
+G:\C# Project\ShortCutTesting\ShortCutTesting\obj\Debug\ShortCutTesting.exe
+G:\C# Project\ShortCutTesting\ShortCutTesting\obj\Debug\ShortCutTesting.pdb

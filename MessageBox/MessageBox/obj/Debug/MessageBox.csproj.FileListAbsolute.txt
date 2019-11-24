@@ -1,0 +1,9 @@
+H:\Project\C# Project\MessageBox\MessageBox\bin\Debug\MessageBox.exe.config
+H:\Project\C# Project\MessageBox\MessageBox\bin\Debug\MessageBox.exe
+H:\Project\C# Project\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.Form1.resources
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.exe
+H:\Project\C# Project\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
